@@ -20,7 +20,7 @@ ResNet and EfficientNet architectures.
 
 ## Table of Contents
 
-- [From Hope to Safety: Unlearning Biases of Deep Models by Enforcing the Right Reasons in Latent Space](#from-hope-to-safety-unlearning-biases-of-deep-models-by-enforcing-the-right-reasons-in-latent-space)
+- [From Hope to Safety: Unlearning Biases of Deep Models via Gradient Penalization in Latent Space](#from-hope-to-safety-unlearning-biases-of-deep-models-via-gradient-penalization-in-latent-space)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
